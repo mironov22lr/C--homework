@@ -1,0 +1,15 @@
+D:\Education\С#Homework\hw13\bin\Debug\net6.0\hw13.exe
+D:\Education\С#Homework\hw13\bin\Debug\net6.0\hw13.deps.json
+D:\Education\С#Homework\hw13\bin\Debug\net6.0\hw13.runtimeconfig.json
+D:\Education\С#Homework\hw13\bin\Debug\net6.0\hw13.dll
+D:\Education\С#Homework\hw13\bin\Debug\net6.0\hw13.pdb
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.csproj.AssemblyReference.cache
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.AssemblyInfoInputs.cache
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.AssemblyInfo.cs
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.csproj.CoreCompileInputs.cache
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.dll
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\refint\hw13.dll
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.pdb
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\hw13.genruntimeconfig.cache
+D:\Education\С#Homework\hw13\obj\Debug\net6.0\ref\hw13.dll
