@@ -1,0 +1,15 @@
+D:\Education\С#Homework\Hw10\bin\Debug\net6.0\Hw10.exe
+D:\Education\С#Homework\Hw10\bin\Debug\net6.0\Hw10.deps.json
+D:\Education\С#Homework\Hw10\bin\Debug\net6.0\Hw10.runtimeconfig.json
+D:\Education\С#Homework\Hw10\bin\Debug\net6.0\Hw10.dll
+D:\Education\С#Homework\Hw10\bin\Debug\net6.0\Hw10.pdb
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.csproj.AssemblyReference.cache
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.AssemblyInfoInputs.cache
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.AssemblyInfo.cs
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.csproj.CoreCompileInputs.cache
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.dll
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\refint\Hw10.dll
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.pdb
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\Hw10.genruntimeconfig.cache
+D:\Education\С#Homework\Hw10\obj\Debug\net6.0\ref\Hw10.dll
