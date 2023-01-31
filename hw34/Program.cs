@@ -32,3 +32,26 @@ void PrintArray(int[] numbers)
     Console.Write("]");
     Console.WriteLine();
 }
+
+
+//int[] array = new int[10];
+
+//void NotEvenPosArray (int[] arr)
+//{
+    //int SummPozIndArray = 0;
+    //for(int i = 0; i < array.Length; i++)
+  //{
+   //  arr [i]=new Random().Next(15);
+
+      //if(i % 2!= 0) - если складывать нечетный индекс элемента в массиве
+  //    if(i % 2 == 0) // если нечетную позицию.
+   //   {
+    //    SummPozIndArray+=arr[i];
+   //   }
+         
+ // }
+
+ //Console.WriteLine(string.Join(",", array));
+ //Console.WriteLine(SummPozIndArray);
+//}
+//NotEvenPosArray(array);
